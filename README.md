@@ -36,8 +36,6 @@ I'm a passionate **Full-Stack Developer** from the Maldives 🇲🇻, specializi
 
 ## 📊 GitHub Stats
 
-[![Shinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinanmhd&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shinanmhd&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ⭐️ From [ShinanMhd](https://github.com/shinanmhd)

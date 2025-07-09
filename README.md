@@ -1,1 +1,36 @@
-#
+# Hello 👋 I'm Shinan!
+
+I'm a passionate **Full-Stack Developer** from the Maldives 🇲🇻, specializing in building scalable web applications with a focus on intuitive user experiences. I love exploring new technologies and solving complex problems.
+
+## 🚀 Currently working with...
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+## ⚙️ I have worked with...
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+
+## 🌐 You can find me on...
+
+<a href="https://www.linkedin.com/in/shinanmhd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://twitter.com/shinanmhd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
+<a href="https://t.me/shinanmhd" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/></a>
+<a href="https://wa.me/yourphonenumber" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="40" height="40"/></a>
+<a href="https://shinanmhd.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" width="40" height="40"/></a>
+<a href="mailto:shinanmhd@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="40" height="40"/></a>
+
+## 📊 GitHub Stats
+
+[![Shinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinanmhd&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shinanmhd&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+⭐️ From [ShinanMhd](https://github.com/shinanmhd)
